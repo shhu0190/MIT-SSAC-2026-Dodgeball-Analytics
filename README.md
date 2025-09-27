@@ -16,18 +16,6 @@ All example match videos referenced by this work can be found on the NSWDL YouTu
 
 ---
 
-## Repository structure
-
-Exactly four notebooks are included:
-
-.
-├── Complete_Workflow_Generating_Coordinates (3).ipynb
-├── Throw_type_categorization_full_workflow (2).ipynb
-├── Ball_Count_Tracking.ipynb
-├── xgb_win_rate_prediction (2).ipynb
-└── README.md
-
-
 ### What each notebook does
 
 1) **Complete_Workflow_Generating_Coordinates.ipynb**  
