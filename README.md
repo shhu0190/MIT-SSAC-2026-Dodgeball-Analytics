@@ -20,12 +20,20 @@ All example match videos referenced by this work can be found on the NSWDL YouTu
 
 Exactly four notebooks are included:
 
-.
 ├── Complete_Workflow_Generating_Coordinates (3).ipynb
+│ End-to-end pipeline for generating coordinate data from raw dodgeball videos.
+│
 ├── Throw_type_categorization_full_workflow (2).ipynb
+│ Full workflow for classifying throw types using YOLO detections and tracking data.
+│
 ├── Ball_Count_Tracking.ipynb
+│ Counts and tracks live ball possession during game sequences.
+│
 ├── xgb_win_rate_prediction (2).ipynb
+│ XGBoost model for predicting set win probability based on in-game features.
+│
 └── README.md
+This documentation file.
 
 
 ### What each notebook does
